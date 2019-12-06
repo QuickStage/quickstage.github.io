@@ -1,15 +1,14 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Quick Stage
+email: 1187928257@qq.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Guide of Quick Stage.
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://quickstage.org/ # the base hostname & protocol for your site
+git_address: https://github.com/AkiraVoid/QuickStage/
+git_edit_address: https://github.com/AkiraVoid/QuickStage/
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
